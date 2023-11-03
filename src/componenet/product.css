@@ -1,0 +1,7 @@
+.details{
+    width: 25%;
+    margin: auto;
+}
+img .details{
+    max-width: 50%;
+}
